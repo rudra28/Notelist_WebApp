@@ -1,0 +1,156 @@
+#body-index{
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 400px;
+    margin-left: 400px;
+    background-color: #2ECC71;
+      }
+.body-create{
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 400px;
+    margin-left: 400px;
+    background-color: #3498DB;
+      }
+.body-show{
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 400px;
+    margin-left: 400px;
+    background-color: #F5B041;
+      }
+.body-edit{
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 400px;
+    margin-left: 400px;
+    background-color: #F5B041;
+      }
+.body-delete{
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 400px;
+    margin-left: 400px;
+    background-color: #ABB2B9;
+}
+
+#index-div{
+    color: #21618C;
+    background-color: #7FB3D5;
+    padding: 20px;
+          }
+
+.div-create {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-right: 400px;
+}
+p{
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.div-edit {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-right: 400px;
+          }
+
+#div-show {
+	font-size: 20px;
+	font-weight: bolder;
+	color: #1C2833;
+	background-color: #f2f2f2;
+    padding: 20px;
+    margin-right: 400px;
+}
+
+#anchor{
+  background-color: ForestGreen;  
+  border-radius: 5px;
+  color: white;
+  padding: .5em;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+#a-index{
+  background-color: #1B4F72;  
+  border-radius: 5px;
+  color: white;
+  padding: .5em;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#a-create{
+  background-color: ForestGreen;  
+  border-radius: 5px;
+  color: white;
+  padding: .5em;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.a-edit{
+  background-color: ForestGreen;  
+  border-radius: 5px;
+  color: white;
+  padding: .5em;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.a-show{
+  background-color: aqua;  
+  border-radius: 5px;
+  color: white;
+  padding: .5em;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.a-delete{
+  background-color: #E74C3C;  
+  border-radius: 5px;
+  color: white;
+  padding: .5em;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    background-color: #85C1E9;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
